@@ -1,0 +1,5 @@
+aclimdb*
+*.data
+.conda
+*.zip
+
