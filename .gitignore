@@ -2,4 +2,6 @@ aclimdb*
 *.data
 .conda
 *.zip
+*mnist
+.venv
 
